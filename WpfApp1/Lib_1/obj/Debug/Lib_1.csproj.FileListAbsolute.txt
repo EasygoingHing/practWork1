@@ -1,0 +1,18 @@
+C:\Users\kruto\OneDrive\Рабочий стол\Новая папка\Lib_1\bin\Debug\Lib_1.dll
+C:\Users\kruto\OneDrive\Рабочий стол\Новая папка\Lib_1\bin\Debug\Lib_1.pdb
+C:\Users\kruto\OneDrive\Рабочий стол\Новая папка\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+C:\Users\kruto\OneDrive\Рабочий стол\Новая папка\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+C:\Users\kruto\OneDrive\Рабочий стол\Новая папка\Lib_1\obj\Debug\Lib_1.dll
+C:\Users\kruto\OneDrive\Рабочий стол\Новая папка\Lib_1\obj\Debug\Lib_1.pdb
+D:\Колледж\Рпм\Крутолапов пр1\Lib_1\bin\Debug\Lib_1.dll
+D:\Колледж\Рпм\Крутолапов пр1\Lib_1\bin\Debug\Lib_1.pdb
+D:\Колледж\Рпм\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+D:\Колледж\Рпм\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+D:\Колледж\Рпм\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.dll
+D:\Колледж\Рпм\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.pdb
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов пр1\Lib_1\bin\Debug\Lib_1.dll
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов пр1\Lib_1\bin\Debug\Lib_1.pdb
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.csproj.AssemblyReference.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.csproj.CoreCompileInputs.cache
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.dll
+D:\Колледж\Рпм\Работы 3 курс\Крутолапов пр1\Lib_1\obj\Debug\Lib_1.pdb
